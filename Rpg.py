@@ -15,3 +15,4 @@ while play:
     else:
         print("exit")
     print(f"you have monney={money}")
+print("helloword")
